@@ -15,7 +15,7 @@ GET parameter
 
 
 ### Request the sample buffer data of a specific asset pair
-```http://api.bitcoinsynth.net/?action=assetpair&assetpair=dasheur```
+```https://api.bitcoinsynth.net/?action=assetpair&assetpair=dasheur```
 
 GET parameter
 * action=assetpair
