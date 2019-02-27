@@ -3,9 +3,11 @@
 
 ![](https://media.giphy.com/media/KPDZ55SvovQv6/giphy.gif)
 
-This API was written and is used with the [Bitcoin Synthesizer](https://bitcoinsynth.net/). It's responding queries with either a list of available cryptocurrency assets and corresponding to that data, that can be used as an audio buffer with the Web Audio API.
+<br><br>
 
-Early versions of the Blockchain Synthesizer used to query every single time against an API endpoint of a cryptocurrency marketplace. Due to request limits on those API's, I came up with this API. It's used to buffer and minimize API calls and it automatically takes care of converting the trade data into usable audio buffer data.
+This API was written for the [Bitcoin Synthesizer](https://bitcoinsynth.net/). You can query either a list of available cryptocurrency assets and corresponding to that audio buffer per cryptocurrency pair to use with the Web Audio API.
+
+Early versions of the Blockchain Synthesizer used to query every single time against an API endpoint of a cryptocurrency marketplace. Due to request limits on those API's, I came up with this simple "API". It's used to buffer and minimize API calls and it automatically takes care of converting the trade data into usable audio buffer data.
 <br><br><br>
 
 
