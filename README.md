@@ -3,7 +3,7 @@
 
 ![](https://media.giphy.com/media/KPDZ55SvovQv6/giphy.gif)
 
-<br><br>
+<br>
 
 This API was written for the [Bitcoin Synthesizer](https://bitcoinsynth.net/). You can query either a list of available cryptocurrency assets and corresponding to that audio buffer per cryptocurrency pair to use with the Web Audio API.
 
