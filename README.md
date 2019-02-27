@@ -1,7 +1,7 @@
 # Blockchain Synthesizer API
 
 
-![](https://media.giphy.com/media/F7Y8JkUEW7jq/giphy.gif)
+![](https://media.giphy.com/media/KPDZ55SvovQv6/giphy.gif)
 
 This API was written and is used with the [Bitcoin Synthesizer](https://bitcoinsynth.net/). It's responding queries with either a list of available cryptocurrency assets and corresponding to that data, that can be used as an audio buffer with the Web Audio API.
 
