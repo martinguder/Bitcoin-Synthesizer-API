@@ -1,5 +1,6 @@
 # Blockchain Synthesizer API
 
+<br>
 
 ![](https://media.giphy.com/media/KPDZ55SvovQv6/giphy.gif)
 
