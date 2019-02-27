@@ -1,4 +1,4 @@
-# Blockchain Synthesizer API
+# Bitcoin Synthesizer API
 
 <br>
 
